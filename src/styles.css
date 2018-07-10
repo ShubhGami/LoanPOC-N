@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.radio-grp {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.heading {
+  font-family: initial;
+  font-weight: 800;
+  color: currentColor;
+  font-size: 24px;
+}
